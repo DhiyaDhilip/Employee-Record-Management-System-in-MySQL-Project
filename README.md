@@ -8,7 +8,7 @@ This SQL project manages employee data, departments, and performance reviews. It
 ###  Project Overview:
 This project simulates a relational database for managing employee records, departmental structures, and performance reviews. It demonstrates your ability to design normalized schemas, implement foreign key relationships, and write advanced SQL queries for HR analytics and operational insights.
 
----
+
 
 ###  Database Schema Design
 
@@ -25,7 +25,7 @@ Tracks employee performance reviews:
 - Fields: `review_id`, `employee_id`, `review_date`, `performance_score`, `comments`
 - Foreign Key: `employee_id` → `employees`
 
----
+
 
 ###  SQL Query Highlights
 
@@ -47,7 +47,7 @@ Tracks employee performance reviews:
 - Calculate average salary by department  
 - Find total salary paid in Engineering
 
----
+
 
 ###  Skills Demonstrated
 - Relational schema design with foreign key constraints  
@@ -58,7 +58,7 @@ Tracks employee performance reviews:
 - Schema evolution (`ALTER TABLE`)  
 - Update and delete operations
 
----
+
 
 ###  Outcome:
 This project showcases your ability to build and query a scalable HR database system using MySQL. It reflects practical skills in employee data management, performance tracking, and departmental analysis — essential for roles in data engineering, HR analytics, and business intelligence.
